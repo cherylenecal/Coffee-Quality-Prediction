@@ -8,6 +8,7 @@ Analyze the influence of different factors (e.g., acidity, sweetness, bitterness
 
 ## Data Collection
 The dataset consists of samples from various coffee origins, including features such as species of coffee, sweetness, aroma, acidity, flavor, etc. It is sourced from Kaggle. We filtered the coffee species to only Arabica.
+https://drive.google.com/drive/folders/1q2bklehgS3nUs4VZk0T5MCdeIpCUjUrd?usp=sharing
 
 ## Methodology
 Data Preprocessing: Replacing and dropping missing values and outlier values
